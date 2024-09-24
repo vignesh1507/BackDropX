@@ -1,0 +1,4 @@
+rembg-2.0.59
+pillow-10.4.0
+BytesIO
+requests
