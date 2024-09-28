@@ -22,7 +22,7 @@ To use this project, simply clone the repository and run the Python script. The 
 
 To install the required libraries, run the following command:
 
-pip install rembg bytesio pillow
+```pip install rembg bytesio pillow```
 
 
 # Contributing
