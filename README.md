@@ -1,6 +1,7 @@
 # Background-be-gone
 
 **Overview**
+
 This project is a small-scale image processing application that allows users to change the background of an image and pixelate the targeted persona in the image. The project utilizes machine learning techniques and is built using Python and libraries like Rembg, BytesIO, and Pillow.
 
 
@@ -38,6 +39,6 @@ This project is designed to be scalable, and we plan to add more functionalities
 
 2. Additional image editing features.
 
-3. User interface improvements.
+3. User interface improvements using streamlit.
 
 
