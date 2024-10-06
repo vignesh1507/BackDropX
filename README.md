@@ -27,7 +27,9 @@ git clone https://github.com/vignesh1507/BackDropX.git
 
 To install the required libraries, run the following command:
 
-```pip install rembg bytesio pillow```
+```bash
+pip install rembg bytesio pillow
+```
 
 
 # Contributing
