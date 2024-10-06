@@ -18,6 +18,8 @@ This project is a small-scaled image processing application that allows users to
 
 To use this project, simply clone the repository and run the Python script. The code is written in a clear and understandable manner, making it easy for users to incorporate and comprehend.
 
+```git clone https://github.com/vignesh1507/BackDropX.git```
+
 
 # Installation
 
