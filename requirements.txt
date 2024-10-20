@@ -1,4 +1,5 @@
-rembg-2.0.59
 pillow-10.4.0
 BytesIO
-requests
+rembg==2.0.59
+requests==2.31.0
+
