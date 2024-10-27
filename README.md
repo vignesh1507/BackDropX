@@ -2,7 +2,7 @@
 
 **Overview**
 
-This project is a small-scaled image processing application that allows users to change/enhance the background of an image and pixelate the targeted persona in the image. The project utilizes machine learning techniques and is built using python and libraries like Rembg, BytesIO, and Pillow. 
+This project is a small-scale image processing application that allows users to change/enhance the background of an image and pixelate the targeted persona in the image. The project utilizes machine learning techniques and is built using Python and libraries like Rembg, BytesIO, and Pillow. 
  
 
 # Features
@@ -16,7 +16,7 @@ This project is a small-scaled image processing application that allows users to
 
 # Getting Started
 
-To use this project, simply clone the repository and run the Python script. The code is written in a clear and understandable manner, making it easy for users to incorporate and comprehend.
+To use this project, simply clone the repository and run the Python script. The code is written clearly and understandably, making it easy for users to incorporate and comprehend.
 
 ```bash
 git clone https://github.com/vignesh1507/BackDropX.git
@@ -39,12 +39,12 @@ This project is open to contributions and suggestions. If you find any errors in
 
 # Future Development
 
-This project is designed to be scalable, and I plan to add more functionalities in the near future. Some potential features include:
+This project is designed to be scalable, and I plan to add more functionalities soon. Some potential features include:
 
 1. Improved machine learning models for better image processing.
 
 2. Additional image editing features.
 
-3. User interface improvements using streamlit.
+3. User interface improvements using Streamlit.
 
 
