@@ -2,7 +2,7 @@
 
 **Overview** 
 
-This project is a small-scale image processing application that allows users to change/enhance the background of an image and pixelate the targeted persona in the image. The project utilizes machine learning techniques and is built using Python and libraries like Rembg, BytesIO, and Pillow.     
+This project is a small scale image processing application that allows users to change/enhance the background of an image and pixelate the targeted persona in the image. The project utilizes machine learning techniques and is built using Python and libraries like Rembg, BytesIO, and Pillow.     
  
 
 # Features 
