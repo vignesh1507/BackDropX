@@ -7,11 +7,11 @@ This project is a small scale image processing application that allows users to 
 
 # Features 
 
-1. Change/enhance the background of an image. 
+1. Change/enhance the background of an image.
 
 2. Pixelate the targeted persona in the image.               
 
-3. Utilizes machine learning techniques for image processing.
+3. Utilizes machine learning(ML) techniques for image processing.
 
 
 # Getting Started
